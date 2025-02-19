@@ -29,3 +29,8 @@ Run the following command to install the required packages:
 ```bash
 pip install -r src/requirements.txt
 ```
+
+### RUN 
+```bash
+streamlit run .\app.py
+```
